@@ -1,4 +1,5 @@
 # BSON parser
+This is bson for react-native
 
 If you don't yet know what BSON actually is, read [the spec](http://bsonspec.org).
 
